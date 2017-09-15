@@ -29,3 +29,11 @@ function dec(n)
   n--
   return n;
 }
+
+function makeInt(n)
+{
+  var a;
+   a = parseInt(n)
+  return a;
+  
+}
