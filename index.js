@@ -35,5 +35,5 @@ function makeInt(n)
   var a;
    a = parseInt(n)
   return a;
-  
+
 }
